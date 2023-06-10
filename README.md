@@ -5,8 +5,7 @@ Simple Eurorack compatible 3 input - 2 output (one channel) mixer.
 - **EURORACK** compatible. 100KOhm input and 1KOhm output impedances. Compatible with eurorack sizes standard (128.5mm (3U) x 6HP).
 - This is a simple OPAmp based adder that mixes 3 input signals, each with its own volume knob into 2 (inverse) outputs.
 
-<!-- ![](./imgs/vca.JPG)
-![](./imgs/front.png) -->
+![](./imgs/mixer.png)
 
 ## Components
 
