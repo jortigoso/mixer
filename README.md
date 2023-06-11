@@ -13,4 +13,4 @@ Full list of components needed are included in the mixer.csv file.
 
 - Potentiometers are Vertical Alpha 9mmm. 
 - Jack sockets are PJ301M-12.
-- Parallel feedback capacitors are not needed bur recommended.
+- Parallel feedback capacitors are not needed but recommended.
