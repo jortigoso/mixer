@@ -9,7 +9,7 @@ Simple Eurorack compatible 3 input - 2 output (one channel) mixer.
 
 ## Components
 
-Full list of components needed are included in the mixer.csv file. 
+Full list of components needed is included in the mixer.csv file. 
 
 - Potentiometers are Vertical Alpha 9mmm. 
 - Jack sockets are PJ301M-12.
